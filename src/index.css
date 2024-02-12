@@ -6,8 +6,9 @@
 body{
     background-image: url(./wp7728133.jpg);
     /* color: aliceblue; */
-    background-repeat:unset;
+    background-repeat:no-repeat;
     background-size:cover;
+    background-attachment:fixed;
     height:80%;
     /* opacity: calc(70%); */
 }

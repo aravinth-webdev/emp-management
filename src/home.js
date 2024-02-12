@@ -49,7 +49,7 @@ export default function Home1(){
     <input type="password"  name="password" maxLength={"15"} placeholder="password" id="fpassword" required></input>
     <br></br>
     <label id="id">EMPLOYER ID : </label>
-    <input type="number" name="id" placeholder="emp id" id="fid"></input>
+    <input type="number" name="id" placeholder="emp id" id="fid" maxLength={"6"} ></input>
     <br></br>
     <label id="salary">EMPLOYER SALARY : </label>
     <input type="number" name="salary" placeholder=" emp salary" maxLength={"20"} id="fsalary" required></input>
