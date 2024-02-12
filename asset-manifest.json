@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/emp-management/static/css/main.09a44622.css",
+    "main.css": "/emp-management/static/css/main.2edababe.css",
     "main.js": "/emp-management/static/js/main.986fcc21.js",
     "static/media/wp7728133.jpg": "/emp-management/static/media/wp7728133.a5ccba0d2988d30d2e2a.jpg",
     "index.html": "/emp-management/index.html",
-    "main.09a44622.css.map": "/emp-management/static/css/main.09a44622.css.map",
+    "main.2edababe.css.map": "/emp-management/static/css/main.2edababe.css.map",
     "main.986fcc21.js.map": "/emp-management/static/js/main.986fcc21.js.map"
   },
   "entrypoints": [
-    "static/css/main.09a44622.css",
+    "static/css/main.2edababe.css",
     "static/js/main.986fcc21.js"
   ]
 }
