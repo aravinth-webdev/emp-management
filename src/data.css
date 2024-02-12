@@ -1,0 +1,116 @@
+*{
+    margin: auto;
+    flex-wrap: wrap;
+}
+body{
+    
+    background-color: rgba(0, 0, 0, 0.336);
+    color: white;
+}
+#register{
+    /* opacity: calc(76%); */
+    margin: 110px 0px;
+    letter-spacing: 2px;
+}
+form{
+    padding: 4% 6%;
+    /* width: fit-content; */
+    background-color:rgba(0, 0, 0, 0.349);
+}
+#register>form>h2{
+    font-family:cursive;
+      font-size: 22px;
+    color:khaki;
+    /* opacity:calc(110%); */
+}
+form>input{
+    padding: 8px;
+    border-radius: 3px;
+    border: none;
+    margin: 10px 10px;
+    color:black;
+    background-color:aliceblue;
+    font-size: 14px;
+    padding: 10px 10px;
+}
+form>input:focus{
+    background-color:black;
+    color:whitesmoke;
+
+}
+label{
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+form>label{
+    padding:10px 20px;
+    margin: 10px 20px;
+}
+form>button{
+    margin: 30px 20px 0px 20px;
+    padding: 10px 40px;
+}
+form>h2{
+    color:royalblue;
+}
+form>button{
+    background-color:cadetblue;
+    color:wheat;
+    font-size: 13px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    /* font-family: cursive; */
+    border: 1px solid white;
+    box-shadow: 0px 0px 1px 1px wheat;
+}
+form>button:hover{
+    color:black;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 1px 1px black;
+    transition: all 0.2s ease-in-out;
+}
+#emp_details{
+    background-color: rgba(0, 0, 0, 0.26);
+    color:rgba(0, 0, 0, 0.815);
+
+    padding:5% 5%;
+}
+#emp_details>h2{
+    font-family:cursive;
+    font-size: 23px;
+    color:khaki;
+}
+#emp_data{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding:3% 5%;
+    font-size: 17px;
+    /* display: flex; */
+}
+#database{
+    color:brown;
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+
+.information{
+    letter-spacing: 2px;
+    color:brown;
+    /* font-weight: bold; */
+    
+    font-size: 18px;
+    padding: 7px 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#thanks{
+    width: fit-content;
+    margin-top: 40px;
+}
+#thanks>footer>h2{
+    font-size: 18px;
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
